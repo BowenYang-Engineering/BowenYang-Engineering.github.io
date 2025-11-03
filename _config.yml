@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Bowen Yang"
-  pronouns         : "He/him"  
+  pronouns         : # URL  
   bio              : "Ph.D. candidate @ University of Alberta"
   location         : "Edmonton, Canada"
   employer         : "University of Alberta"
