@@ -13,8 +13,7 @@ title                    : "Bowen Yang"
 title_separator          : "-"
 name                     : &name "Bowen Yang"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://BowenYang-Engineering.github.io" # The base hostname & protocol for your site e.g. "https://BowenYang-Engineering.github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://BowenYang-Engineering.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BowenYang-Engineering/BowenYang-Engineering.github.io"
 
