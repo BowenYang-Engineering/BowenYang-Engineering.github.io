@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/BowenYang-Engineering"
+  
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -62,6 +62,7 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : "https://www.linkedin.com/in/bowen-yang-4008b7185/"
+  github           : "https://github.com/BowenYang-Engineering"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
