@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Bowen Yang"
 title_separator          : "-"
 name                     : &name "Bowen Yang"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "AI for energy systems: probabilistic forecasting, optimization, and control for intelligent, resilient, and sustainable buildings and grid infrastructure"
 url                      : "https://BowenYang-Engineering.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BowenYang-Engineering/BowenYang-Engineering.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Bowen Yang"
   pronouns         : # URL  
-  bio              : "Ph.D. Candidate @ University of Alberta"
+  bio              : "Postdoctoral Associate @ University of Alberta"
   location         : "Edmonton, Canada"
   employer         : "University of Alberta"
   uri              : # URL
@@ -37,7 +37,6 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=yxH6_1QAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  arxiv           : # URL - Update with the correct link to your profile
   orcid            : # URL
   researchgate     : "https://www.researchgate.net/profile/Bowen-Yang-59?ev=prf_overview"
   scopus           : # URL
